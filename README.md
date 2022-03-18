@@ -1,2 +1,7 @@
 # encrypt-bash-script
-Using Base64 encoding and a ROT-13 cipher, I have created a bash script that encrpyts a file's data for use on Linux systems.
+This bash script asks for user input of a file, such as a text file, a zip file, or an image, then encrypts its contents. (decryption not tested on images and zip files)
+
+#### Demonstration
+![demo_screenshot](demo_screenshot.png)
+
+***
